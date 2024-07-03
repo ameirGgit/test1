@@ -4,5 +4,6 @@ availableValues:
 environments:
   Production:
     enabled: false
+    value: 12
   test:
     value: 43
