@@ -3,5 +3,4 @@ availableValues:
   - 3.12
 environments:
   test:
-    enabled: false
     value: 43
