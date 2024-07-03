@@ -1,3 +1,6 @@
 name: num91
 availableValues:
   - 3.12
+environments:
+  test:
+    enabled: false
