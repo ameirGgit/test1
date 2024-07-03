@@ -2,5 +2,7 @@ name: num91
 availableValues:
   - 3.12
 environments:
+  Production:
+    enabled: false
   test:
     value: 43
