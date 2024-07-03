@@ -1,0 +1,4 @@
+name: tg3
+conditions:
+  - operator: is-undefined
+    property: internal.lib_version

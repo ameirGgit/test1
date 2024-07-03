@@ -1,0 +1,5 @@
+name: tg2
+conditions:
+  - operator: ne
+    property: rox.language
+    operand: '123'

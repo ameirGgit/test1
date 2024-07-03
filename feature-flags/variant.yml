@@ -1,0 +1,5 @@
+name: variant
+availableValues:
+  - vat1
+  - var3
+  - var2
