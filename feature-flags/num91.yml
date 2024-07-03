@@ -4,3 +4,4 @@ availableValues:
 environments:
   test:
     enabled: false
+    value: 43
