@@ -5,4 +5,4 @@ environments:
   Production:
     value: 12
   test:
-    value: 43
+    value: 20
