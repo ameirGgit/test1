@@ -1,4 +1,4 @@
 name: SimpleFlag1
 environments:
   Production:
-    value: true
+    value: false
