@@ -3,6 +3,6 @@ availableValues:
   - 3.12
 environments:
   Production:
-    value: 33
+    value: 55
   test:
     value: 43
